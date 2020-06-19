@@ -1,4 +1,4 @@
-# WWDC20-Scholarship
+# My enry to the Swift Student Challenge 2020
 *Awarded a scholarship 2020*
 
 This playground is designed to help you explore the fantastic possibilities of sound waves and harmonics, and how they relate to Digital Signal Processing.

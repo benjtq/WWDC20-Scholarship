@@ -7,4 +7,4 @@ Use the application bundle if you don't currently have Xcode installed.
 
 - [ ] Unfortunately I ran out of time (literally) so documenting the code was a priority that got pushed back and never happened.
 
-Also considering adding AVAudioEngine realtime audio playback for the waves you shape.
+- [ ] Also considering adding AVAudioEngine realtime audio playback for the waves you shape.
